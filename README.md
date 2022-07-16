@@ -1,3 +1,3 @@
 # Data-Markets-with-Stackelberg-Nash-Equilibria-Complete-
 
-Complete version including detailed proofs and solving process.
+Complete version including detailed proofs.
